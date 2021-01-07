@@ -13,6 +13,5 @@
 #define MOUNT_POINT "/sdcard"
 
 void init_sdcard();
-void tusNalgas(uint8_t counter);
 
 #endif
