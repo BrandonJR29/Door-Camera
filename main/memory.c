@@ -2,23 +2,6 @@
 
 static char *TAG = "uSD";
 
-void tusNalgas(uint8_t counter){
-
-//	char *pic_name = malloc(30 + sizeof(int64_t));
-//	sprintf(pic_name, MOUNT_POINT"/pic_%d.jpg", counter);
-	FILE *file = fopen("/sdcard/teLajeta.jpg", "w");
-//	if (file != NULL)
-//	{
-//		fwrite(pic->buf, 1, pic->len, file);
-//		ESP_LOGI(TAG, "File saved: %s", "/pic1.jpg");
-//	}
-//	else
-//	{
-//		ESP_LOGE(TAG, "Could not open file =(");
-//	}
-//	fclose(file);
-//	free(pic_name);
-}
 
 void init_sdcard()
 {
