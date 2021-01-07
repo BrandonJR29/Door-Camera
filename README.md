@@ -25,10 +25,10 @@ ESP32-CAM door camera.
 
 ## To Do
 
--[x] Take a picture.
--[x] Save in uSD.
--[] Watch in web server.
--[] Video streaming after the picture was taken.
+- [x] Take a picture.
+- [x] Save in uSD.
+- [ ] Watch in web server.
+- [ ] Video streaming after the picture was taken.
 
 ## Warnings
 
