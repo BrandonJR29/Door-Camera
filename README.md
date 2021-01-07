@@ -20,13 +20,15 @@ ESP32-CAM door camera.
 
 * Camera and uSd configuration.
 * Take a picture if the push button is pressed.
-* Save the picture in the uSD in order.
+* Save the picture in the uSD.
 * Pictures' name begins from "pic1.jpg".
 
-## Comming soon
+## To Do
 
-* Send the data via WiFi to a server.
-* Video streaming after the picture is took.
+-[x] Take a picture.
+-[x] Save in uSD.
+-[] Watch in web server.
+-[] Video streaming after the picture was taken.
 
 ## Warnings
 
